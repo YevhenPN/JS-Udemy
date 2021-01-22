@@ -1,0 +1,12 @@
+.example-block {
+	visibility: hidden;
+	font-size: 50px;
+}
+
+.example-string {
+	font-size: 50px;
+}
+
+.example-image{
+	border: 5px dashed #000;
+}
